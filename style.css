@@ -1,3 +1,154 @@
 *{
     box-sizing: border-box;
 }
+body {
+    background-color: rgba(193, 66, 243);
+    font-family: 'Laila', serif;
+}
+
+#container {
+    width: 90%; 
+    background-color: white;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bungee Inline', cursive;
+    margin: 0;
+}
+
+h1 {
+    float: left;
+    padding-left: 1em;
+    padding-top: 0.75em;
+}
+
+h4 {
+    max-height: 20px;
+    overflow: hidden;
+    background-color: white;
+}
+
+#search{
+    float: left;
+    padding: 1.25em;
+}
+
+#search input {
+    padding: 0.5em;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+#navigation {
+    background-color: rgb(193, 66, 243) 
+}
+#navigation ul {
+     list-style: none;
+     padding: 0;
+ }
+
+#navigation li {
+    float: left;
+    padding: 10px 20px;
+    border-right: 1px solid black;
+    width: 14.2857143%;
+    text-align: center;
+}
+
+#navigation li:hover {
+    background-color: white;
+   cursor: pointer;
+}
+
+#promotions {
+    background-color: rgb(194, 194, 194);
+}
+
+#promotions span {
+    float: left;
+    text-align: center; 
+    padding: 0.5em;
+    font-weight: bold;
+}
+
+#promotions .arrow {
+    width: 5%;
+    background-color: white;
+    font-size: 2em;
+    padding: 0;
+}
+
+.promo {
+    width: 90%;
+}
+
+main {
+    background-color: white;
+    min-height: 350px;
+}
+
+main > aside {
+    float: left;
+    width: 20%;
+    background-color: rgb(193, 66, 243);
+    padding: 20px;
+}
+
+main > section {
+float: left; 
+width: 80%;
+padding: 20px;
+background-color: white;
+color: white; 
+}
+
+aside select {
+    width: 100%;
+}
+
+aside hr {
+    border: none;
+    border-bottom: 1px solid white;
+    padding-bottom: 5px;
+
+}
+
+#product-listings {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    width: 30%;
+    background-color: white;
+    color: black;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.product img {
+    width: 90%;
+    margin: 10px auto;
+    display: block;
+}
+
+.product h4, .product p, .product a {
+    margin: 0;
+    text-align: center;
+    display: block;
+}
+footer {
+    background-color: solid white;
+    text-align: center;
+}
+
+footer p {
+   padding: 10px;
+   margin: 0;
+}
