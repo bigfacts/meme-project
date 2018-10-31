@@ -45,7 +45,7 @@ h4 {
 }
 
 #navigation {
-    background-color: rgb(193, 66, 243) 
+    background-color: lightslategray; 
 }
 #navigation ul {
      list-style: none;
@@ -61,12 +61,12 @@ h4 {
 }
 
 #navigation li:hover {
-    background-color: white;
+    background-color: grey;
    cursor: pointer;
 }
 
 #promotions {
-    background-color: rgb(194, 194, 194);
+    background-color:white;
 }
 
 #promotions span {
@@ -88,14 +88,14 @@ h4 {
 }
 
 main {
-    background-color: white;
+    background-color: lightslategray;
     min-height: 350px;
 }
 
 main > aside {
     float: left;
     width: 20%;
-    background-color: rgb(193, 66, 243);
+    background-color: white;
     padding: 20px;
 }
 
@@ -103,8 +103,8 @@ main > section {
 float: left; 
 width: 80%;
 padding: 20px;
-background-color: white;
-color: white; 
+background-color: lightslategray;
+color:white ; 
 }
 
 aside select {
@@ -144,7 +144,7 @@ aside hr {
     display: block;
 }
 footer {
-    background-color: solid white;
+    background-color: lightgray;
     text-align: center;
 }
 
