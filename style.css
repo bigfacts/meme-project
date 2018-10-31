@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    float: left;
+    float: right;
     padding-left: 1em;
     padding-top: 0.75em;
 }
@@ -30,8 +30,8 @@ h4 {
 }
 
 #search{
-    float: left;
-    padding: 1.25em;
+    float: right;
+    padding: 1.30em;
 }
 
 #search input {
