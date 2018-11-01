@@ -16,12 +16,14 @@ h1, h2, h4, h5, h6 {
     font-family: 'Bungee Inline', Cursive;
     margin: 0;
     color: white;
+    font-size:8pc;
 }
 
+
 h1 {
-    float: right;
-    padding-left: 1em;
-    padding-top: 0.75em;
+    float: center;
+    padding-left: 1.3em;
+    color: yellow;
 }
 h3 {
     font-family: 'Bungee Inline', Cursive;
@@ -32,7 +34,7 @@ h3 {
 h4 {
     max-height: 20px;
     overflow: hidden;
-    background-color: lightslategray;
+    background-color: white;
 }
 
 #search{
@@ -51,7 +53,7 @@ h4 {
 }
 
 main {
-    background-color: lightslategray;
+    background-color: grey;
     min-height: 450px;
 }
 
@@ -60,14 +62,6 @@ main > aside {
     width: 20%;
     background-color: white;
     padding: 20px;
-}
-
-main > section {
-float: left; 
-width: 80%;
-padding: 20px;
-background-color: lightslategray;
-color:white ; 
 }
 
 aside select {
