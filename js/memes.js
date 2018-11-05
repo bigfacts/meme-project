@@ -77,7 +77,7 @@ var memes = [
         meme_id: '11',
     },
     {
-        image: "NBaby Face.jpg",
+        image: "Baby Face.jpg",
         title: "NBA memes",
         category: "NBA player memes",
         easterEgg: false,
