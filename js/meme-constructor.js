@@ -3,11 +3,11 @@
 var meme_list = [];
 
 var Meme = function(meme){
-    this.image = product.image;
-    this.title = product.title;
-    this.category = product.category;
-    this.easterEgg = product.easterEgg;
-    this.meme_id = product.meme_id;
+    this.image = meme.image;
+    this.title = meme.title;
+    this.category = meme.category;
+    this.easterEgg = meme.easterEgg;
+    this.meme_id = meme.meme_id;
 
 };
 Meme.prototype.toHtml = function(){
