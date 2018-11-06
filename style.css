@@ -23,7 +23,7 @@ h1, h2, h4, h5, h6 {
 h1 {
     float: center;
     padding-left: 1.3em;
-    color: yellow;
+    color: gold;
 }
 h3 {
     font-family: '';
@@ -83,7 +83,7 @@ aside hr {
 
 .meme {
     width: 30%;
-    background-color: white;
+    background-color: grey;
     color: black;
     float: left;
     margin: 0 20px 20px 0;
@@ -99,14 +99,4 @@ aside hr {
     margin: 0;
     text-align: center;
     display: block;
-}
-footer {
-    background-color: black;
-    text-align: center;
-    color: white;
-}
-
-footer p {
-   padding: 10px;
-   margin: 0;
 }
