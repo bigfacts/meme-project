@@ -3,7 +3,7 @@
 function setUpCategoryFilter() {
     var categories;
     var categoryList = [];
-    $('.product').each(function() {
+    $('.meme').each(function() {
         categories = $(this).attr('data-categories').split(',');
         categories.forEach(function(category) {
             if(categoryList.indexOf(category) < 0) {
