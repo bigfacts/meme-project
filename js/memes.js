@@ -48,7 +48,7 @@ var memes = [
         stars: '5',
     },
     {
-        image: "miracle.jpg",
+        image: "miracle.png",
         title: "NFL memes",
         category: "NFL player memes",
         easterEgg: false,
