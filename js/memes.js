@@ -5,6 +5,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '1',
+        stars:
     },
     {
         image: "liver.jpg",
@@ -12,6 +13,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '2',
+        stars:
     },
     {
         image: "blueberry.jpg",
@@ -19,6 +21,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '3',
+        stars:
     },
     {
         image: "ring.jpg",
@@ -26,6 +29,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '4',
+        stars:
     },
     {
         image: "shoes.jpg",
@@ -33,6 +37,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '5',
+        stars:
     },
     {
         image: "fortnite.jpg",
@@ -40,6 +45,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '6',
+        stars:
     },
     {
         image: "miracle.jpg",
@@ -47,6 +53,8 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '7',
+        stars:
+
     },
     {
         image: "download.jpg",
@@ -54,6 +62,7 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '8',
+        stars:
     },
     { 
         image: "Tom Brady.jpg",
@@ -61,6 +70,8 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '9',
+        stars:
+
     },
     {
         image: "Melo.jpg",
@@ -68,6 +79,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '10',
+        stars:
+
     },
     {
         image: "NBA.jpg",
@@ -75,6 +88,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '11',
+        stars:
+
     },
     {
         image: "Baby Face.jpg",
@@ -82,6 +97,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '12',
+        stars:
+
     },
     {
         image: "Colon meme.jpg",
@@ -89,20 +106,26 @@ var memes = [
         category: "MLB player memes",
         easterEgg: false,
         meme_id: '13',
+        stars:
+        
     },
     {
         image: "Fat kid.jpg",
         title: "MLB memes",
         category: "MLB player memes",
         easterEgg: false,
-        meme_id: '14',        
+        meme_id: '14',   
+        stars:
+
     },
     {
         image: "Cubs.jpg",
         title: "MLB memes",
         category: "MLB player memes",
         easterEgg: false,
-        meme_id: '15',   
+        meme_id: '15', 
+        stars:
+
     },
     {
         image: "Phatworm.jpg",
@@ -110,27 +133,35 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: true,
         meme_id: '16',   
+        stars:
+
     },
     {
         image: "The Rock.jpg",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '17',   
+        meme_id: '17',
+        stars:
+
     },
     {
-        image: "Zac.jpg",
+        image: "Zac.png",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '18',   
+        meme_id: '18',  
+        stars:
+
     },
     {
         image: "Apple.jpg",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '19',   
+        meme_id: '19',
+        stars:
+
     },
     {
         image: "Barney.jpg",
@@ -138,6 +169,7 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
         meme_id: '20', 
+        stars:
     },
 
 
