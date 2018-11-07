@@ -119,7 +119,7 @@ var memes = [
 
     },
     {
-        image: "Cubs.jpg",
+        image: "Cubs.jpeg",
         title: "MLB memes",
         category: "MLB player memes",
         easterEgg: false,
