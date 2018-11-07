@@ -13,7 +13,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '2',
-        stars: '5',
+        stars: '4',
     },
     {
         image: "blueberry.jpg",
@@ -21,7 +21,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '3',
-        stars: '5',
+        stars: '3.5',
     },
     {
         image: "ring.jpg",
@@ -37,7 +37,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '5',
-        stars: '5',
+        stars: '4',
     },
     {
         image: "fortnite.jpg",
@@ -53,7 +53,7 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '7',
-        stars: '5',
+        stars: '4',
 
     },
     {
@@ -70,7 +70,7 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '9',
-        stars: '5',
+        stars: '4',
 
     },
     {
@@ -88,7 +88,7 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '11',
-        stars: '5',
+        stars: '4',
 
     },
     {
@@ -124,7 +124,7 @@ var memes = [
         category: "MLB player memes",
         easterEgg: false,
         meme_id: '15', 
-        stars: '5',
+        stars: '4',
     },
     {
         image: "Phatworm.jpg",
@@ -150,7 +150,7 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
         meme_id: '18',  
-        stars: '5',
+        stars: '3',
 
     },
     {
@@ -159,7 +159,7 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
         meme_id: '19',
-        stars: '5',
+        stars: '4',
 
     },
     {
