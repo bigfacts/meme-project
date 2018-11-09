@@ -5,6 +5,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '1',
+        stars: '5',
     },
     {
         image: "liver.jpg",
@@ -12,6 +13,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '2',
+        stars: '4',
     },
     {
         image: "blueberry.jpg",
@@ -19,6 +21,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '3',
+        stars: '3',
     },
     {
         image: "ring.jpg",
@@ -26,6 +29,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '4',
+        stars: '3',
     },
     {
         image: "shoes.jpg",
@@ -33,6 +37,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '5',
+        stars: '4',
     },
     {
         image: "fortnite.jpg",
@@ -40,13 +45,16 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '6',
+        stars: '5',
     },
     {
-        image: "miracle.jpg",
+        image: "miracle.png",
         title: "NFL memes",
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '7',
+        stars: '4',
+
     },
     {
         image: "download.jpg",
@@ -54,6 +62,7 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '8',
+        stars: '5',
     },
     { 
         image: "Tom Brady.jpg",
@@ -61,6 +70,8 @@ var memes = [
         category: "NFL player memes",
         easterEgg: false,
         meme_id: '9',
+        stars: '4',
+
     },
     {
         image: "Melo.jpg",
@@ -68,6 +79,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '10',
+        stars: '3',
+
     },
     {
         image: "NBA.jpg",
@@ -75,6 +88,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '11',
+        stars: '3',
+
     },
     {
         image: "Baby Face.jpg",
@@ -82,6 +97,8 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '12',
+        stars: '2',
+ 
     },
     {
         image: "Colon meme.jpg",
@@ -89,20 +106,25 @@ var memes = [
         category: "MLB player memes",
         easterEgg: false,
         meme_id: '13',
+        stars: '5',
+        
     },
     {
         image: "Fat kid.jpg",
         title: "MLB memes",
         category: "MLB player memes",
         easterEgg: false,
-        meme_id: '14',        
+        meme_id: '14',   
+        stars: '5',
+
     },
     {
-        image: "Cubs.jpg",
+        image: "Cubs.jpeg",
         title: "MLB memes",
         category: "MLB player memes",
         easterEgg: false,
-        meme_id: '15',   
+        meme_id: '15', 
+        stars: '4',
     },
     {
         image: "Phatworm.jpg",
@@ -110,27 +132,35 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: true,
         meme_id: '16',   
+        stars: '5',
+
     },
     {
         image: "The Rock.jpg",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '17',   
+        meme_id: '17',
+        stars: '4',
+
     },
     {
-        image: "Zac.jpg",
+        image: "Zac.png",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '18',   
+        meme_id: '18',  
+        stars: '3',
+
     },
     {
         image: "Apple.jpg",
         title: "You vs the guy she told you not to worry about memes",
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
-        meme_id: '19',   
+        meme_id: '19',
+        stars: '2',
+
     },
     {
         image: "Barney.jpg",
@@ -138,6 +168,7 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
         meme_id: '20', 
+        stars: '5',
     },
 
 

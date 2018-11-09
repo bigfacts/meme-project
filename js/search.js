@@ -11,4 +11,3 @@ $('#search').on('submit', function(event) {
         }
     });
 });
-console.log('hi');
