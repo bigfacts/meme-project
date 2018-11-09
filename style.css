@@ -8,7 +8,7 @@ body {
 
 #container {
     width: 90%; 
-    background-color: black;
+    background-color: white;
     margin: 0 auto;
 }
 
@@ -23,7 +23,7 @@ h1, h2, h4, h5, h6 {
 h1 {
     float: center;
     padding-left: 1.3em;
-    color: gold;
+    color: rgb(221, 74, 74);
 }
 h3 {
     font-family: '';
@@ -34,7 +34,7 @@ h3 {
 h4 {
     max-height: 20px;
     overflow: hidden;
-    background-color: grey;
+    background-color: white;
 }
 h5 {
     text-align: right;
@@ -61,14 +61,14 @@ h5 {
 }
 
 main {
-    background-color: grey;
+    background-color: black;
     min-height: 450px;
 }
 
 main > aside {
     float: left;
     width: 20%;
-    background-color: white;
+    background-color: black;
     padding: 20px;
 }
 
@@ -78,7 +78,7 @@ aside select {
 
 aside hr {
     border: none;
-    border-bottom: 1px solid lightslategray;
+    border-bottom: 1px solid white;
     padding-bottom: 5px;
 }
 
@@ -90,7 +90,7 @@ aside hr {
 
 .meme {
     width: 30%;
-    background-color: grey;
+    background-color: white;
     color: black;
     float: left;
     margin: 0 20px 20px 0;
