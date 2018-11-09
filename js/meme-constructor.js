@@ -8,6 +8,7 @@ var Meme = function(meme){
     this.category = meme.category;
     this.easterEgg = meme.easterEgg;
     this.meme_id = meme.meme_id;
+    this.stars = meme.stars;
 };
 
 Meme.prototype.toHtml = function(){
