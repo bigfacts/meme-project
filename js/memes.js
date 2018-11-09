@@ -21,7 +21,7 @@ var memes = [
         category: "Mexican Word of the Day",
         easterEgg: false,
         meme_id: '3',
-        stars: '3',
+        stars: '5',
     },
     {
         image: "ring.jpg",
@@ -37,7 +37,7 @@ var memes = [
         category: "Mecheal Jordan memes",
         easterEgg: false,
         meme_id: '5',
-        stars: '4',
+        stars: '2',
     },
     {
         image: "fortnite.jpg",
@@ -97,7 +97,7 @@ var memes = [
         category: "NBA player memes",
         easterEgg: false,
         meme_id: '12',
-        stars: '2',
+        stars: '1',
  
     },
     {
@@ -168,7 +168,7 @@ var memes = [
         category: "You vs the guy she told you not to worry about memes",
         easterEgg: false,
         meme_id: '20', 
-        stars: '5',
+        stars: '4',
     },
 
 
