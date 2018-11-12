@@ -1,7 +1,6 @@
 'use strict';
 
-$('#search').on('submit', function(event) {
-    
+$('#search').on('submit', function(event) {   
     event.preventDefault();
     $('.meme').hide();
     var lookup = $('#lookup').val().toLowerCase();
