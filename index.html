@@ -6,10 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>The Four Blind Mice and Caleb</title>
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Righteous" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/lightbox.min.css">
     <script id="meme-template" type="text/handlebars-v4">
         <li class="meme" data-easterEgg="{{easterEgg}}" data-id="{{meme_id}}">
-            <img src="images/{{image}}" alt="{{title}}">
+            <a href="images/{{image}}" data-lightbox="meme-image">
+                <img src="images/{{image}}" alt="{{title}}">
+            </a>
             <h4>{{title}}</h4>
             <h5>{{{star-icons stars}}}</h5>
          </li> 
@@ -26,7 +29,7 @@
                 <h1>Dank Memes</h1>
                 <form id="search">
                     <input type="text" id="lookup" placeholder="Search">
-                    <input type="button" value="Go">
+                    <input type="submit" value="Go">
                 </form>
             </div> 
        </header>
@@ -34,7 +37,6 @@
            <aside>
                 <h3>Categories</h3>
                 <select id="category-filter">
-                    
                 </select>
 
 
@@ -57,5 +59,6 @@
    <script src="js/category-filter.js"></script>
    <script src="js/search.js"></script>
    <script src="js/easteregg.js"></script>
+   <script src="js/lightbox-plus-jquery.min.js"></script>
 </body>
 </html>
