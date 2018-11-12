@@ -7,7 +7,7 @@ body {
 }
 
 #container {
-    width: 90%; 
+    width: 80%; 
     background-color: white;
     margin: 0 auto;
 }
@@ -27,14 +27,14 @@ h1 {
 }
 h3 {
     font-family: '';
-    margin: 0;
-    color: black;
+    margin: 10;
+    color: white;
 }
 
 h4 {
-    max-height: 20px;
+    max-height: 10px;
     overflow: hidden;
-    background-color: white;
+    background-color: rgb(65, 65, 65);
 }
 h5 {
     text-align: right;
@@ -45,13 +45,13 @@ h5 {
 }
 
 #search{
-    display: inline-block;
-    
-    padding: 1.5em;
+    float: center;
+    padding: 1.4em;
 }
 
 #search input {
     padding: 0.4em;
+    float:center;
 }
 
 .clearfix::after {
@@ -61,14 +61,16 @@ h5 {
 }
 
 main {
-    background-color: black;
+    background-color: rgb(65, 65, 65);
     min-height: 450px;
+   
 }
 
 main > aside {
-    float: left;
+    float: center
+    ;
     width: 20%;
-    background-color: black;
+    background-color: rgb(65, 65, 65);
     padding: 20px;
 }
 
